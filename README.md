@@ -1,6 +1,7 @@
 # Install tarball version of Tetr.IO with just a basic script!
 (THIS IS A FORK FROM SPOOKYORANGE'S GITHUB PAGE FOR IT, ONLY IT IS UPDATED AND WILL BE UPDATED EVERY TIME THEY PUBLISH ANOTHER VERSION FROM TETR.IO. THE ONLY REASON I CREATED IT, IS BECAUSE SPOOKYORANGE'S GITHUB IS NOT UP TO DATE, IT STUCK TO THE 9.0 VERSION, NOWDAYS, THE LATEST VERSION IS 10.0)
-# A script to easily install Tetr.IO the tarball way on your Linux machine!
+
+A script to easily install Tetr.IO the tarball way on your Linux machine!
 
 Note: This installation script is by no means affiliated with osk. If you may have a concern about script, open an issue, if you have a concern about copyright or anything related to it, please open an issue, or compose me an email. 
 
