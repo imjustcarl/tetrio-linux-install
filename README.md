@@ -10,7 +10,7 @@ Note: This installation script is by no means affiliated with osk. If you may ha
 Clone the repo and run the script
 ```bash
 
-git clone https://github.com/spookyorange/tetrio-linux-install.git
+git clone https://github.com/imjustcarl/tetrio-linux-install.git
 cd tetrio-linux-install
 sh ./install.sh
 
